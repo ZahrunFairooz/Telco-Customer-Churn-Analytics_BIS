@@ -167,7 +167,6 @@ Telco-Customer-Churn-Analytics_BIS/
 │
 ├── README.md
 ├── Zahrun_Notebook.ipynb
-└── 21021074_BIS.pdf
 
 
 ---
